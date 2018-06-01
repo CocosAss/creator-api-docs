@@ -11,6 +11,12 @@
     display: none;
   }
 }
+.version-link { 
+  float:right!important; 
+  width:130px; 
+  margin-right:10px; 
+  z-index: 999; 
+} 
 .cocos-navbar {
   overflow: visible;
   height: 40px;
@@ -30,6 +36,7 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  width:100%;
   position: absolute;
 }
 .cocos-navbar ul li {
@@ -107,3 +114,4 @@
 .cocos-navbar:hover h1 {
   opacity: 1;
 }
+

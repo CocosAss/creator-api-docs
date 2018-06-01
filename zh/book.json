@@ -36,6 +36,21 @@
                 "name": "AnySDK",
                 "link": "http://docs.anysdk.com/"
             }
+        ],
+        "version":[
+            {
+                "name": "2.0",
+                "links": [
+                    {
+                        "name": "1.9",
+                        "link": "http://docs.cocos.com/creator/api/zh"
+                    },
+                    {
+                        "name": "2.0",
+                        "link": "http://docs.cocos.com/creator/api/next/zh"
+                    }
+                ]
+            }
         ]
     }
 }
